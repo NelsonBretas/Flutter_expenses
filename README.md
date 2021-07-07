@@ -1,4 +1,4 @@
-Example project on Flutter to control the expenses.
+Example project on Flutter to control expenses.
 
 ![1](https://user-images.githubusercontent.com/17622567/124818161-11d56c80-df41-11eb-9f49-7b2a1eb834aa.png)
 
